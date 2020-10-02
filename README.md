@@ -673,6 +673,7 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __php-mt-seed	3.2__	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
 * __php-rfi-payload-decoder	30.bd42caa__	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
 * __php-vulnerability-hunter	1.4.0.20__	An whitebox fuzz testing tool capable of detected several classes of vulnerabilities in PHP web applications.	https://phpvulnhunter.codeplex.com/
+* __phpsploit__ Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. https://github.com/nil0x42/phpsploit
 * __phpstress	5.f987a7e__	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.	https://github.com/nightlionsecurity/phpstress
 * __phrasendrescher	1.2.2__	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
 * __pipal	1.1__	A password analyser	http://www.digininja.org/projects/pipal.php
