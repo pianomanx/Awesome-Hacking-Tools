@@ -234,6 +234,7 @@ ________________________________________________________________________________
 * __dnswalk	2.0.2__	A DNS debugger	http://sourceforge.net/projects/dnswalk/
 * __domain-analyzer	0.8.1__	Finds all the security information for a given domain name.	http://sourceforge.net/projects/domainanalyzer/
 * __doona	118.ff1e17b__	A fork of the Bruteforce Exploit Detector Tool (BED).	https://github.com/wireghoul/doona
+* __dorkify__	Perform Google Dork search with Dorkify.	https://github.com/hhhrrrttt222111/Dorkify
 * __dotdotpwn	3.0__	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
 * __dpeparser	beta002__	Default password enumeration project	http://www.toolswatch.org/dpe/
 * __dpscan	0.1__	Drupal Vulnerabilty Scanner.	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
